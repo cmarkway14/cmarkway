@@ -13,6 +13,10 @@
     display: inline-block;
 }
 
+#map {
+    display: inline-block;
+}
+
 .information {
     font-size: 1.25em;
     display: inline-block;
@@ -45,4 +49,14 @@
 .contactHeader {
     font-size: 1.25em;
     font-weight: bold;
+}
+
+#contactInformationMain {
+    width: 100%;
+}
+
+#contactInformationMain .column {
+    float: left;
+    width: 50%;
+    display: inline-block;
 }
