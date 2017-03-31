@@ -1,0 +1,62 @@
+﻿.contact {
+    font-size: 2.5em;
+    color: black;
+    padding-top: .5em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+
+#contactInformation {
+    padding-bottom: 2em;
+    font-size: 1.5em;
+    display: inline-block;
+}
+
+#map {
+    display: inline-block;
+}
+
+.information {
+    font-size: 1.25em;
+    display: inline-block;
+}
+
+.textarea {
+    resize: none;
+    width: 100%;
+    height: 50px
+}
+
+.textareaForMessage {
+    resize: none;
+    width: 100%;
+    height: 150px
+}
+
+#submitContactMe {
+    align-content: center;
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 50px;   
+}
+
+#submitContactDiv {
+    padding-top: 1.25em;
+}
+
+.contactHeader {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+#contactInformationMain {
+    width: 100%;
+}
+
+#contactInformationMain .column {
+    float: left;
+    width: 50%;
+    display: inline-block;
+}
